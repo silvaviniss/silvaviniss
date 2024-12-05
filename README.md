@@ -13,7 +13,7 @@
 </div>
 
 <div><br>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaviniss&show_icons=true&theme=transparent"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaviniss&show_icons=true&theme=transparent"/>
 </div>
       
 <div><br>
